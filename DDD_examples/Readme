@@ -1,0 +1,19 @@
+DDD Debugging Examples
+
+The files in this folder all have errors in them that
+you must find using the DDD debugger.  All of them
+should be fairly familiar problems in order to
+make the code familiar to you.  Make sure that you
+understand what the code is trying to do before you
+try to debug it.  
+
+As the numbers of the files increase, the bugs get
+harder to find.  However, all the bugs are basic 
+mistakes that anyone could easily make while writing
+a piece of code for the first time.  
+
+All the files can be compiled using GCC with no special
+command line options.  To use DDD, make sure to
+include the -g option to include symbols.
+
+You can also debug these programs using printfs.
